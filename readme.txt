@@ -12,3 +12,9 @@ update 1.1 changelog:
 - added support for custom folder locations
 - added a config file and a setup in the program
 - some more bug fixes. Really...
+
+update 1.2 changelog:
+
+- fixed a big but with not being able to create batch files
+- added support for linux
+- added a visual for if a batch file is in a folder or not
